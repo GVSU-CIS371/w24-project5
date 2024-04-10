@@ -15,8 +15,8 @@ Ensure you have Node.js installed on your system. If not, download and install i
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Yong-Zhuang/gvsu-cis371-assignment5-demo-code.git
-cd gvsu-cis371-assignment5-demo-code
+git clone git@github.com:GVSU-CIS371/w24-project5.git
+cd w24-project5
 ```
 
 Install the required packages:
@@ -24,10 +24,6 @@ Install the required packages:
 ```bash
 npm install
 ```
-
-### Configuring Firebase
-
-Add your Firebase configuration to `data-controller.ts` to connect the project with your Firestore database.
 
 ### Running the Development Server
 
@@ -41,4 +37,4 @@ Once the server is running, open your web browser and navigate to `http://localh
 
 ## Contributing
 
-If you have suggestions for improving the demonstration code, please feel free to [create an issue](https://github.com/Yong-Zhuang/gvsu-cis371-assignment5-demo-code/issues) or submit a pull request.
+If you have suggestions for improving the demonstration code, please feel free to [create an issue](https://github.com/GVSU-CIS371/w24-project5/issues) or submit a pull request.
